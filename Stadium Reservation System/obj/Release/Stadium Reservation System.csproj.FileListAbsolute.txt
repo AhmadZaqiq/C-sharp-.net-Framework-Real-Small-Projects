@@ -1,0 +1,11 @@
+D:\C++ && C#\Stadium Reservation System\bin\Release\Stadium Reservation System.exe.config
+D:\C++ && C#\Stadium Reservation System\bin\Release\Stadium Reservation System.exe
+D:\C++ && C#\Stadium Reservation System\bin\Release\Stadium Reservation System.pdb
+D:\C++ && C#\Stadium Reservation System\obj\Release\Stadium Reservation System.csproj.AssemblyReference.cache
+D:\C++ && C#\Stadium Reservation System\obj\Release\Stadium Reservation System.csproj.SuggestedBindingRedirects.cache
+D:\C++ && C#\Stadium Reservation System\obj\Release\Stadium_Reservation_System.Form1.resources
+D:\C++ && C#\Stadium Reservation System\obj\Release\Stadium_Reservation_System.Properties.Resources.resources
+D:\C++ && C#\Stadium Reservation System\obj\Release\Stadium Reservation System.csproj.GenerateResource.cache
+D:\C++ && C#\Stadium Reservation System\obj\Release\Stadium Reservation System.csproj.CoreCompileInputs.cache
+D:\C++ && C#\Stadium Reservation System\obj\Release\Stadium Reservation System.exe
+D:\C++ && C#\Stadium Reservation System\obj\Release\Stadium Reservation System.pdb
