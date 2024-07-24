@@ -3,7 +3,7 @@ A collection of real-world small projects developed using C# and .NET Framework.
 
 # 1. Stadium Reservation System
 
-## Description
+# Description
 
 ### Team Management and Stadium Booking
 - Users can enter team names, book stadiums, start, pause, resume, and end booking periods.
