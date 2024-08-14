@@ -18,7 +18,7 @@ A collection of real-world small projects developed using C# and .NET Framework.
 ### Billing and Price Calculation
 - When a booking period ends, the app displays a message with the team's name, total time used, and the calculated price based on the usage duration and rate per minute.
 
-## How to Run
+### How to Run
 - Navigate to the directory `StadiumReservationSystem/bin/Release`.
 - Run `Stadium Reservation System.exe`.
 
