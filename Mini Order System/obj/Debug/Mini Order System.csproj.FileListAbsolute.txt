@@ -1,0 +1,15 @@
+C:\Users\Ahmad JR\source\repos\Mini Order System\bin\Debug\Mini Order System.exe.config
+C:\Users\Ahmad JR\source\repos\Mini Order System\bin\Debug\Mini Order System.exe
+C:\Users\Ahmad JR\source\repos\Mini Order System\bin\Debug\Mini Order System.pdb
+C:\Users\Ahmad JR\source\repos\Mini Order System\obj\Debug\Mini Order System.csproj.AssemblyReference.cache
+C:\Users\Ahmad JR\source\repos\Mini Order System\obj\Debug\Mini_Order_System.ctrlOrderControl.resources
+C:\Users\Ahmad JR\source\repos\Mini Order System\obj\Debug\Mini_Order_System.Form1.resources
+C:\Users\Ahmad JR\source\repos\Mini Order System\obj\Debug\Mini_Order_System.Properties.Resources.resources
+C:\Users\Ahmad JR\source\repos\Mini Order System\obj\Debug\Mini Order System.csproj.GenerateResource.cache
+C:\Users\Ahmad JR\source\repos\Mini Order System\obj\Debug\Mini Order System.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad JR\source\repos\Mini Order System\obj\Debug\Mini Order System.exe
+C:\Users\Ahmad JR\source\repos\Mini Order System\obj\Debug\Mini Order System.pdb
+C:\Users\Ahmad JR\source\repos\Mini Order System\obj\Debug\Mini Order System.exe.config
+C:\Users\Ahmad JR\source\repos\Mini Order System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ahmad JR\source\repos\Mini Order System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ahmad JR\source\repos\Mini Order System\obj\Debug\Mini Ord.6BF1B5BE.Up2Date
